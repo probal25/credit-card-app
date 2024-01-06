@@ -31,5 +31,5 @@ public class CreditCardApplication {
 
     private String referenceId;
 
-    public String status;
+    private String status;
 }

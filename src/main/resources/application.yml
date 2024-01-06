@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: apply-credit-card-service
+    name: credit-card-application-service
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/credit_card_db?schema=credit_card_application
     username: root

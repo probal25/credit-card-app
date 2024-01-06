@@ -12,7 +12,7 @@ import java.util.function.Supplier;
 @Slf4j
 @Configuration
 @AllArgsConstructor
-public class EventPublisher {
+public class CreditCardEventPublisher {
     private EventPublisherService eventPublisherService;
 
     @Bean
